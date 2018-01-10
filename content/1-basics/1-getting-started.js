@@ -70,7 +70,7 @@ Then open the "package.json" in the hello-next directory and add the following N
   }
 }
 ~~~
-
+Create an empty "pages" directory under the project root.
 Now everything is ready. Run the following command to start the dev server:
 
 ~~~sh
